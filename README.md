@@ -20,8 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
 - [More MERN Projects](URL-to-mern-projects)
 
 ## 🌟 LeetCode Stats
-- [My LeetCode Profile](https://leetcode.com/u/AkshatG6/)
-![](https://leetcard.jacoblin.cool/akshatg6)
+- ![My Leetcode Profile - akshatg6](https://leetcard.jacoblin.cool/akshatg6)
 
 
 
