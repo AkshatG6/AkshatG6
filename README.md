@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
 
 ## 🌟 LeetCode Stats
 - [My LeetCode Profile](https://leetcode.com/u/AkshatG6/)
-- ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+- ![](https://leetcard.jacoblin.cool/akshatg6leetcode?site=cn)
 
 
 
