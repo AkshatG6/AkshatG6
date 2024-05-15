@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
 
 ### C Projects
 - [Project 1](URL-to-project-1) - Short description of Project 1
-- [Project 2]([URL-to-project-2](https://github.com/AkshatG6/TicTacToe-in-C)) - Tic-Tac-Toe using MinMax Algorithm
+- [Project 2](https://github.com/AkshatG6/TicTacToe-in-C) - Tic-Tac-Toe using MinMax Algorithm
 
 ### Java Projects
 - [Project 1](URL-to-project-1) - Short description of Project 1
