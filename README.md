@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
 - [More MERN Projects](URL-to-mern-projects)
 
 ## 🌟 LeetCode Stats
-If you want to include your LeetCode stats, you could use an external service or API that generates a dynamic image or summary of your stats, or simply link to your LeetCode profile:
 - [My LeetCode Profile](https://leetcode.com/u/AkshatG6/)
+- ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 
 
