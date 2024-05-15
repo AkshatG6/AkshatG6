@@ -6,18 +6,17 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
 
 ### C Projects
 - [Project 1](URL-to-project-1) - Short description of Project 1
-- [Project 2](URL-to-project-2) - Short description of Project 2
-- [More C Projects](URL-to-c-projects)
+- [Project 2]([URL-to-project-2](https://github.com/AkshatG6/TicTacToe-in-C)) - Tic-Tac-Toe using MinMax Algorithm
 
 ### Java Projects
 - [Project 1](URL-to-project-1) - Short description of Project 1
 - [Project 2](URL-to-project-2) - Short description of Project 2
-- [More Java Projects](URL-to-java-projects)
 
 ### MERN Stack Projects
 - [Project 1](URL-to-project-1) - Short description of Project 1
 - [Project 2](URL-to-project-2) - Short description of Project 2
-- [More MERN Projects](URL-to-mern-projects)
+  
+- [More Projects](URL-to-mern-projects)
 
 ## 🌟 LeetCode Stats
 ![My Leetcode Profile - akshatg6](https://leetcard.jacoblin.cool/akshatg6)
