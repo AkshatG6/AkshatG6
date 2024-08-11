@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
 - [Project 2](https://github.com/AkshatG6/TicTacToe-in-C) - Tic-Tac-Toe using MinMax Algorithm
 
 ## 🌟 LeetCode Stats
-![My Leetcode Profile - akshatg6](https://leetcard.jacoblin.cool/akshatg6)
+![My Leetcode Profile - akshatg6](https://leetcard.jacoblin.cool/akshatgm6)
 
 
 
