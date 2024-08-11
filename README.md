@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
 ## 🌟 LeetCode Stats
 ![My Leetcode Profile - akshatg6](https://leetcard.jacoblin.cool/akshatgm6)
 
-### Programing Languages 
+<!-- ### Programing Languages 
   - Java
   - Python
   - C++
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating impactful so
   - React.js
   - Spring Boot
   - Rails
-  - Vue.js
+  - Vue.js -->
     
 
 <!--
