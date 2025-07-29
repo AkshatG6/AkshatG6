@@ -1,6 +1,6 @@
 ### Hi there, I am Akshat Gandhi 👋
 
-I am a software engineer at Google (living my dream!!). I work as a part of the Client Side Identity team (overall, Identity Platform). 
+I am a software engineer at Google (living my dream!!). I am a part of the Client Side Identity team (within, Identity Platform). 
 
 Welcome to my GitHub profile! I'm passionate about coding, creating impactful software, and constantly learning new technologies.
 
